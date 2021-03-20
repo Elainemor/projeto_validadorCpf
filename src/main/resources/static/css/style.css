@@ -1,0 +1,39 @@
+/*.body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;      
+}*/
+.container{
+    background-color: #fcfafc;
+    height: auto;
+    width: 1500px;
+}
+
+.mensagem {
+    margin-top: 15px;
+    font-size: 30px;
+    color: #4c16e0;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+
+
+.form-group{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #4c16e0;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+    
+}
+
+
