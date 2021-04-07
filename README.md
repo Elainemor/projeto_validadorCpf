@@ -1,4 +1,4 @@
-#Projeto Validador de CPF
+<b>Projeto Validador de CPF<b>
 
 ![](https://img.shields.io/badge/java-v.1.8-blue.svg) ![](https://img.shields.io/badge/maven-v.3.3-orange.svg)
 
